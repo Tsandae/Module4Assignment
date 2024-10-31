@@ -10,16 +10,18 @@ This project analyzes a Netflix dataset to gain insights through data cleaning, 
 - R graph visualization: Assignment4.jpeg
 
 ## Requirements
-- Python 3.x
+1. Jupyter
+Jupyter Libraries
 - Pandas
 - Seaborn
 - Matplotlib
-- R
+- plotly
+2. R
+R Libraries 
 - ggplot2
 - dplyr
-- plotly
 
 ## Instructions
 1. Ensure all required libraries are installed.
 2. Open Assignment4.RData, or  Assignment4.txt, & Assignment4.jpeg for the R visualization.
-3. Open Module4.ipynb for Data Exploration, Data cleaning ,and Visuaalization
+3. Open Module4.ipynb for Data Exploration, Data cleaning ,and Visualization
