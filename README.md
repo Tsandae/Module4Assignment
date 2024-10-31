@@ -11,13 +11,13 @@ This project analyzes a Netflix dataset to gain insights through data cleaning, 
 
 ## Requirements
 1. Jupyter
-Jupyter Libraries
+* Jupyter Libraries
 - Pandas
 - Seaborn
 - Matplotlib
 - plotly
 2. R
-R Libraries 
+* R Libraries 
 - ggplot2
 - dplyr
 
